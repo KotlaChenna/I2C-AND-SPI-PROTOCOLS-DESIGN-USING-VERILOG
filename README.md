@@ -19,7 +19,9 @@ has been processes is often considered as the “little” communication protoco
 for On-Board communication
 
 Required Software: 
-1. Xilinx Vivado
+1. Xilinx Vivado/n
+
+
 Introduction:
 Nowadays, the integration of different embedded electronic modules include at least some 
 of these functions: intelligent control, general purpose circuits, analog and digital I/O data 

@@ -19,10 +19,11 @@ has been processes is often considered as the “little” communication protoco
 for On-Board communication
 
 Required Software: 
-1. Xilinx Vivado/n
+1. Xilinx Vivado
 
 
 Introduction:
+
 Nowadays, the integration of different embedded electronic modules include at least some 
 of these functions: intelligent control, general purpose circuits, analog and digital I/O data 
 ports, volatile memories (RAM), non-volatile memories (EEPROM, FLASH), real time 
@@ -53,3 +54,7 @@ outline of this paper is divided in four sections. Section 2 discusses the resea
 section 3 illustrates the methods used in the development of this work. Section 4 reports 
 the obtained results and conclusions.
 Keywords - Serial Peripheral Interface (SPI), System Verilog, System- onChip (SoC), Intellectual Property (IP)
+![image](https://github.com/KotlaChenna/I2C-AND-SPI-PROTOCOLS-DESIGN-USING-VERILOG/assets/100984116/3903ea52-1d29-4cd5-b97f-e64bdc40a165)
+![image](https://github.com/KotlaChenna/I2C-AND-SPI-PROTOCOLS-DESIGN-USING-VERILOG/assets/100984116/541daefc-258b-4cb0-888e-51be75ae562c)
+
+

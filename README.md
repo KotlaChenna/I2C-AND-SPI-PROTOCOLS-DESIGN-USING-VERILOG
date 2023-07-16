@@ -58,7 +58,7 @@ Keywords - Serial Peripheral Interface (SPI), System Verilog, System- onChip (S
 ![image](https://github.com/KotlaChenna/I2C-AND-SPI-PROTOCOLS-DESIGN-USING-VERILOG/assets/100984116/541daefc-258b-4cb0-888e-51be75ae562c)
 
 
-I2C--
+I2C/SPI
 https://github.com/KotlaChenna/I2C-AND-SPI-PROTOCOLS-DESIGN-USING-VERILOG.wiki.git
-SPI--
+
 
